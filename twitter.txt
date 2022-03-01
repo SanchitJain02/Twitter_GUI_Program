@@ -1,0 +1,4 @@
+api key = dkJmeyfZH81HSOFfwTdSkST99
+api key secret = p1iv1RpTKj7Uh2wmOwjeqTtxdYpfp28U3RURW7eweBn01DV0LK
+access key = 1250285356487856128-dSkMsYzWvbCALvpJgj1ZH1vimPmZ3K
+access secret = n2VqtQmzdRnFGct2SOAw8v0ozsud9zIWclDkaBiVpK3rp
